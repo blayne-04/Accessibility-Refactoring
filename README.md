@@ -1,22 +1,28 @@
-<h1>Accessibility-Refactoring<h1>
+# Accessibility-Refactoring
 
-<h2>Description</h2>
-<p>Condensed css as well as added semantic html tags to a pre-existing website.</p>
+## Description
+Condensed css as well as added semantic html tags to a pre-existing website.
 
-<h2>Dependencies<h2>
-<p>internet access, A browser.
+## Dependencies
+internet access, A browser.
 
-<h2>Installation
-<p>N/A<p>
+## Installation
+N/A
 
-<h2>Authors<h2>
-<P>© 2019 Horiseon Social Solution Services, Inc.<p>
-<p>Blayne Fuller<p>
+## Authors
+© 2019 Horiseon Social Solution Services, Inc.
 
-<h2>Version History<h2>
-    <li>0.3 - Added Semantic HTML</li>
-    <li>0.2 - Condensed CSS</li>
-    <li>0.1 - Commited Starter Code</li>
+Blayne Fuller
 
-<h2>License<h2>
-<p>This project is not licensed<p>
+## Version History
+0.4 - Added CSS comments<br>
+0.3 - Added Semantic HTML<br>
+0.2 - Condensed CSS<br>
+0.1 - Commited Starter Code<br>
+
+## License
+This project is not licensed
+
+## Screenshots of application 
+![](./assets/images/Screenshot_1.png)
+![](./assets/images/Screenshot_2.png)

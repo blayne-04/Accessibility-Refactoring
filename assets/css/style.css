@@ -3,27 +3,23 @@
     padding: 0;
     margin: 0;
 }
-
+/* sets the background color to d9dcd6 for the body container */
 body {
     background-color: #d9dcd6;
 }
-
+/* sets the size of the header, font, background color and text color all for the header in that order  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* changes the header element to inlineblock format, also sets font size of "Horiseon"*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
+/* sets a padding of 15px above the element, sets a margin value of 20px to the right of the element, aligns the element to the right side of the page, sets the font, and font size */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +27,22 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header nav ul {
-    list-style-type: none;
-}
+/* aligns the nav bar into a straight line, sets the space between each element*/
 
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* sets the color of the nav bar as well as deletes the default underline of links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* sets the font size for every paragraph on the page */
 p {
     font-size: 16px;
 }
-
+/* sets the size, margins and position of the digital-marketing-meeting image, */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +51,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* aligns the text inside the main container  with images on the left*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* aligns the text inside the main container with images on the right*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* sets the width, display type and margin from the left side of the page for the main container */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* sets the width font, background color and height for the aside container */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,23 +78,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* sets the margin below each section in the aside container, as well as the text color */
 .benefit-all {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* aligns the titles for each section in the aside container */
 .benefit-all h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* sets a max width, display type and margin for every image in the aside container */
 .benefit-all img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* sets the height, font, background color, text color, padding from the edge of the section and margin between each section for all sections with the class topics*/
 .topics {
     margin-bottom: 20px;
     padding: 50px;
@@ -110,23 +103,23 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* sets the size of the images under the topics class*/
 .topics img {
     max-height: 200px;
 }
-
+/* sets a margin below each h2 element under the topics class as well as the font size*/
 .topics h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* sets the footers padding, aligns the text to the center and sets the font style*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* makes the "Made with <3 by Horiseon" slightly bigger than "© 2019 Horiseon Social Solution Services, Inc." */
 .footer h2 {
-    font-size: 20px;
+    font-size: 25px;
 }
