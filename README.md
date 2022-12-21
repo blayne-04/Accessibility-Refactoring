@@ -10,16 +10,12 @@ internet access, A browser.
 N/A
 
 ## Authors
-© 2019 Horiseon Social Solution Services, Inc.
-
+© 2019 Horiseon Social Solution Services, Inc.<br>
 Blayne Fuller
-
-<h2>Authors<h2>
-<P>© 2019 Horiseon Social Solution Services, Inc.<p>
-<p>Blayne Fuller<p>
 
 ## License
 This project is not licensed
 
-<h2>License<h2>
-<p>This project is not licensed<p>
+## Screenshots
+![Screenshot_1](https://user-images.githubusercontent.com/107909315/208793076-9a9c5d38-0d2a-4cfe-8d5a-80afb6d9a7fd.png)
+![Screenshot_2](https://user-images.githubusercontent.com/107909315/208793080-183743e7-01ff-41f0-acb1-da8f87f418e0.png)
