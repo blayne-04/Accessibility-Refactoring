@@ -14,15 +14,12 @@ N/A
 
 Blayne Fuller
 
-## Version History
-0.4 - Added CSS comments<br>
-0.3 - Added Semantic HTML<br>
-0.2 - Condensed CSS<br>
-0.1 - Commited Starter Code<br>
+<h2>Authors<h2>
+<P>© 2019 Horiseon Social Solution Services, Inc.<p>
+<p>Blayne Fuller<p>
 
 ## License
 This project is not licensed
 
-## Screenshots of application 
-![](./assets/images/Screenshot_1.png)
-![](./assets/images/Screenshot_2.png)
+<h2>License<h2>
+<p>This project is not licensed<p>
