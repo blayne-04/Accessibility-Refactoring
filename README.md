@@ -1,4 +1,4 @@
-# Accessibility-Refactoring
+# CONDENSING CSS / SEMANTIC HTML TAGS BASICS
 
 ## Description
 Condensed css as well as added semantic html tags to a pre-existing website.
